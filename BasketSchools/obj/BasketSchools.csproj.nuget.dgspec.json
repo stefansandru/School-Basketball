@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/BasketSchools.csproj": {}
+    "/Users/stefansandru/Documents/BasketSchools/BasketSchools/BasketSchools.csproj": {}
   },
   "projects": {
-    "/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/BasketSchools.csproj": {
+    "/Users/stefansandru/Documents/BasketSchools/BasketSchools/BasketSchools.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/BasketSchools.csproj",
+        "projectUniqueName": "/Users/stefansandru/Documents/BasketSchools/BasketSchools/BasketSchools.csproj",
         "projectName": "BasketSchools",
-        "projectPath": "/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/BasketSchools.csproj",
+        "projectPath": "/Users/stefansandru/Documents/BasketSchools/BasketSchools/BasketSchools.csproj",
         "packagesPath": "/Users/stefansandru/.nuget/packages/",
-        "outputPath": "/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/",
+        "outputPath": "/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/stefansandru/.nuget/NuGet/NuGet.Config"

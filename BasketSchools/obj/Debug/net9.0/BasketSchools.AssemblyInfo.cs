@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BasketSchools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15964a2b7d7a715bea29f1a7a0dcac6fee8a7025")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c884715c545f977157e6bb1adc76959714874b4e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BasketSchools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BasketSchools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
