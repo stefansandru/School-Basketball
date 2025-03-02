@@ -2,7 +2,6 @@
 using BasketSchools.Repository;
 using BasketSchools.Service;
 
-// todo: read and write data from/to files
 
 ActivePlayerRepo activePlayerRepo = new ActivePlayerRepo();
 MatchRepo matchRepo = new MatchRepo();
