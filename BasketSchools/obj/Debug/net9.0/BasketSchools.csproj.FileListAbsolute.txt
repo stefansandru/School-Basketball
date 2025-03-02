@@ -1,0 +1,42 @@
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.deps.json
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.runtimeconfig.json
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.pdb
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.AssemblyInfoInputs.cache
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.AssemblyInfo.cs
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.csproj.CoreCompileInputs.cache
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/refint/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.pdb
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.genruntimeconfig.cache
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/Semestru 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/ref/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.deps.json
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.runtimeconfig.json
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.pdb
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.AssemblyInfoInputs.cache
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.AssemblyInfo.cs
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.csproj.CoreCompileInputs.cache
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/refint/BasketSchools.dll
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.pdb
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.genruntimeconfig.cache
+/Users/stefansandru/Library/Mobile Documents/com~apple~CloudDocs/Facultate/sem 3/MAP_Cloud/BasketSchools/BasketSchools/obj/Debug/net9.0/ref/BasketSchools.dll
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.deps.json
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.runtimeconfig.json
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.dll
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/bin/Debug/net9.0/BasketSchools.pdb
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.AssemblyInfoInputs.cache
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.AssemblyInfo.cs
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.csproj.CoreCompileInputs.cache
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.dll
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/refint/BasketSchools.dll
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.pdb
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/BasketSchools.genruntimeconfig.cache
+/Users/stefansandru/Documents/BasketSchools/BasketSchools/obj/Debug/net9.0/ref/BasketSchools.dll
